@@ -1,4 +1,4 @@
-    Levon Pogosian (SFU; main contact)
-    Andrei Frolov (SFU)
-    Alireza Hojjati (SFU/UBC)
-    Douglas Scott (UBC) 
+    • Levon Pogosian <levon@sfu.ca> (SFU; main contact)
+    • Andrei Frolov <frolov@sfu.ca> (SFU)
+    • Alireza Hojjati <ahojjati@phas.ubc.ca> (SFU/UBC)
+    • Douglas Scott <dscott@astro.ubc.ca> (UBC) 

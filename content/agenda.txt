@@ -1,6 +1,6 @@
-    Pulsars, black holes and other astrophysical tests
-    Gravitational wave detectors
-    Terrestrial tests, gravity on short distances
-    Cosmological probes - CMB, 21cm, redshift surveys, weak lensing
-    Modified gravity models: scalar-tensor, massive gravity, etc.
-    Model-independent frameworks for testing gravity
+    • Pulsars, black holes and other astrophysical tests
+    • Gravitational wave detectors
+    • Terrestrial tests, gravity on short distances
+    • Cosmological probes - CMB, 21cm, redshift surveys, weak lensing
+    • Modified gravity models: scalar-tensor, massive gravity, etc.
+    • Model-independent frameworks for testing gravity
