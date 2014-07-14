@@ -1,5 +1,5 @@
-# local backup copies, as paranoia pays off
+# protected areas
+artwork/sources/
 backups/
-
-# generated HTML/CSS code, not versioned
+private/
 html/
