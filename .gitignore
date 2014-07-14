@@ -1,0 +1,5 @@
+# local backup copies, as paranoia pays off
+backups/
+
+# generated HTML/CSS code, not versioned
+html/
