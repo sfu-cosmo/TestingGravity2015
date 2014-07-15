@@ -10,7 +10,9 @@
     • Makoto Fujiwara (TRIUMF)
     • Lam Hui (Columbia)
     • Bhuvnesh Jain (UPenn)
+    • Tobias Jenke (Vienna) †
     • Mark Kasevich (Stanford)
+    • Brian Keating (UCSD)
     • Kazuya Koyama (Portsmouth)
     • Jiro Mirata (Rikkyo University)
     • Shinji Mukohyama (IPMU) †
