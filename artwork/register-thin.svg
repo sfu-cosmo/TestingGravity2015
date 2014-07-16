@@ -56,7 +56,7 @@
 			<path fill="#B8C8D2" d="M244.2,24l2.8,9.3l0.6,3.1h0.1l0.5-3.1l2.2-9.3h2.2l-4.3,16.4h-1.3l-3.2-10.5l-0.4-2.7h-0.1l-0.4,2.7
 				l-3.1,10.5h-1.3L233.9,24h2.4l2.5,9.3l0.4,3.1h0.1l0.6-3.2l2.6-9.2H244.2z"/>
 		</g>
-		<g id="id-ion" transform="translate(304.000000, 16.000000)" sketch:type="MSShapeGroup">
+		<g id="id-ion" transform="translate(303.000000, 16.000000)" sketch:type="MSShapeGroup">
 			<path id="Shape" fill="#B8C8D2" d="M16.8,9.3h7.3v1h-7.3V9.3L16.8,9.3z"/>
 			<path id="Shape_1_" fill="#B8C8D2" d="M16.8,15.6h7.3v1h-7.3V15.6L16.8,15.6z"/>
 			<path id="Shape_2_" fill="#B8C8D2" d="M16.8,12.5H22v1h-5.2V12.5L16.8,12.5z"/>
