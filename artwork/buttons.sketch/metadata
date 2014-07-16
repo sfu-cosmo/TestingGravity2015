@@ -11,11 +11,9 @@
 	<key>fonts</key>
 	<array>
 		<string>PTSans-Narrow</string>
-		<string>PTSans-Regular</string>
-		<string>PTSans-Caption</string>
 	</array>
 	<key>length</key>
-	<integer>26612</integer>
+	<integer>58478</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
