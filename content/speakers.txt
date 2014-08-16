@@ -1,11 +1,12 @@
     • Eric Adelberger (U Wash)
     • Niayesh Afshordi (Waterloo/Perimeter) †
     • Rachel Bean (Cornell)
-    • Philippe Brax (Perimeter) †
+    • Philippe Brax (Saclay) †
     • Avery Broderick (Perimeter)
     • Cliff Burgess (McMaster/Perimeter) †
     • Clare Burrage (Nottingham) †
     • Manuela Campanelli (RIT)
+    • Cedric Deffayet (IAP, Paris) †
     • Antonio De Felice (Yukawa) †
     • Gia Dvali (NYU/LMU/MPI Munich) †
     • Makoto Fujiwara (TRIUMF)
@@ -15,6 +16,7 @@
     • Mark Kasevich (Stanford)
     • Brian Keating (UCSD)
     • Kazuya Koyama (Portsmouth)
+    • David Langlois (APC Paris) †
     • Jiro Mirata (Rikkyo University)
     • Ue-Li Pen (CITA) †
     • Misao Sasaki (Yukawa) †
