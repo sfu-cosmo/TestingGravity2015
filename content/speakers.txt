@@ -6,7 +6,6 @@
     • Cliff Burgess (McMaster/Perimeter) †
     • Manuela Campanelli (RIT)
     • Cedric Deffayet (IAP, Paris) †
-    • Antonio De Felice (Yukawa) †
     • Gia Dvali (NYU/LMU/MPI Munich) †
     • Makoto Fujiwara (TRIUMF)
     • Lam Hui (Columbia)
@@ -23,7 +22,7 @@
     • Alessandra Silvestri (SISSA/Leiden)
     • Ingrid Stairs (UBC)
     • Alexei Starobinsky (Landau ITP) †
-    • Jay Tasson (Carleton College) †
+    • Jay Tasson (St. Olaf College) †
     • Mark Trodden (UPenn)
     • Shinji Tsujikawa (Tokyo University)
     • Bill Unruh (UBC)
