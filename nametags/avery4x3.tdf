@@ -1,0 +1,9 @@
+%%
+%% ticket for "Avery 4x3 Name Badge Kit, Model 05393"
+%%
+\unitlength=1in
+\hoffset=-0.75in
+\voffset=-0.1665in
+\ticketNumbers{2}{3}
+\ticketSize{4}{3}
+\ticketDistance{0}{0}
