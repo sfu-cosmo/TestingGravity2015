@@ -12,7 +12,10 @@ replace = {
     'National Astronomical Observatories China': 'NAOC'
 }
 
-volunteers = ['Contreras', 'Coutts', 'Narimani', 'Talbot', 'Troester']
+volunteers = {
+    'soc': ['Frolov', 'Fujiwara', 'Picker', 'Pogosian', 'Pospelov', 'Psaltis', 'Scott'],
+    'volunteer': ['Contreras', 'Coutts', 'Hojjati', 'Narimani', 'Pogosian', 'Talbot', 'Troester']
+}
 
 with open('Registration_Jan 06.csv', 'rU') as csvfile:
     participants = csv.reader(csvfile, dialect='excel')
@@ -23,4 +26,8 @@ for p in sorted(people, key=lambda p: (p[3].lower(), p[4].lower())):
     	p[4] = re.sub('[a-z]+', '.', p[4])
     for k in replace.keys():
     	p[5] = p[5].replace(k, replace[k])
-    print "\\nametag%s{%s %s}{%s}" % ('[volunteer]' if p[3] in volunteers else '', p[4], p[3], p[5] if p[5] != 'None' else '')
+    label = ''
+    for tag in sorted(volunteers.keys()):
+        if p[3] in volunteers[tag]:
+            label = '[' + tag + ']'
+    print "\\nametag%s{%s %s}{%s}" % (label, p[4], p[3], p[5] if p[5] != 'None' else '')
