@@ -17,7 +17,7 @@ volunteers = {
     'volunteer': ['Contreras', 'Coutts', 'Hojjati', 'Narimani', 'Pogosian', 'Talbot', 'Troester']
 }
 
-with open('Registration_Jan 06.csv', 'rU') as csvfile:
+with open('Registration_Jan 07.csv', 'rU') as csvfile:
     participants = csv.reader(csvfile, dialect='excel')
     people = [p for p in participants if p[-1] == 'Yes' or (p[-1] == 'No' and intent == 'tags')]
 
