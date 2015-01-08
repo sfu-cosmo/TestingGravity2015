@@ -1,0 +1,144 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+% use the corresponding paper size for your ticket definition
+\documentclass[letterpaper,12pt]{article}
+
+% load fonts and graphics
+\usepackage{xifthen,xltxtra,xunicode,fontspec,graphicx}
+\defaultfontfeatures{Scale=MatchLowercase,Ligatures=TeX}
+
+%%% Set paper size and margins
+\usepackage[letterpaper]{anysize}       % Set paper size and margins
+\marginsize{0.5in}{0.5in}{0.5in}{0.5in}
+\setlength{\headheight}{32pt}
+\setlength{\headsep}{12pt}
+\flushbottom
+
+%%% Customize layout
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\pagestyle{fancy}
+\lhead{\fontspec{Cinzel}\huge Testing Gravity 2015}\chead{}
+\rhead{\fontspec{Lato Light Italic}\Large Conference Program}
+\lfoot{}\cfoot{}\rfoot{}
+%\renewcommand{\headrulewidth}{1pt}
+%\renewcommand{\footrulewidth}{1pt}
+
+
+\setmainfont{EB Garamond}
+\setsansfont{Lato}
+\setmonofont{Jura}
+
+\newcommand{\slot}[1]{\item[\fontspec{Lato} #1]}
+\newcommand{\talk}[2]{{\fontspec{Lato Bold} #1,} {\fontspec{Lato Light Italic} #2}}
+
+\newcommand{\coffee}{\smallskip}
+\newcommand{\lunch}[1]{
+\medskip
+\slot{#1} \talk{Lunch Break}{various locations}
+\medskip
+}
+
+\begin{document}
+\begin{itemize}
+\setlength\itemsep{0pt}
+\setlength\itemindent{36pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\Large\fontspec{Lato Black} Wed Jan 14 - The School}
+
+\slot{08:30} {\fontspec{Lato Light Italic} Registration Desk Opens}
+
+\slot{09:00-10:30} \talk{Jeremy Heyl}{Introduction to GR and gravitational interactions on different scales}
+\slot{11:00-12:30} \talk{Mark Trodden}{Review of dark energy and modified gravity}
+
+\lunch{12:30-13:30}
+
+\slot{13:30-15:00} \talk{Michael Landry}{Introduction into gravitational waves}
+\slot{15:30-17:00} \talk{Gary Hinshaw}{Review of cosmology and the latest observations}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\Large\fontspec{Lato Black} Thu Jan 15 - Workshop Day 1}
+
+\slot{08:30} {\fontspec{Lato Light Italic} Registration Desk Opens}
+
+\slot{09:00-09:05} \talk{Workshop starts}{Introduction from organizers}
+\slot{09:05-09:15} \talk{Welcome}{Joy Johnson, SFU VP Research}
+\slot{09:15-09:35} \talk{Dimitrios Psaltis}{Overview of gravity tests}
+\slot{09:35-10:00} \talk{Mark Trodden}{The state of theory}
+\slot{10:00-10:30} \talk{Eric Adelberger}{Table top tests of gravity}
+\coffee
+\slot{11:00-11:30} \talk{Misao Sasaki}{Creation of the universe in bigravity}
+\slot{11:30-12:00} \talk{Mark Kasevich}{Cold atoms}
+\slot{12:00-12:30} \talk{Nico Yunes}{Gravitational wave probes of extreme gravity}
+\slot{12:30-12:50} \talk{Mike Landry}{LIGO}
+
+\lunch{13:00-14:00}
+
+\slot{14:00-14:25} \talk{Kazuya Koyama}{Non-linear structure formation in modified gravity models}
+\slot{14:25-14:50} \talk{Rachel Bean}{Testing gravity with large scale surveys}
+\slot{14:50-15:15} \talk{David Langlois}{A unifying description of dark energy}
+\slot{15:15-15:35} \talk{Alessandra Silvestri}{Approaches to cosmological tests}
+\coffee
+\slot{16:00-18:00} \talk{Contributed Talks}{see separate schedule}
+
+\bigskip
+
+\slot{18:00-20:00} \talk{Poster Session and Reception}{snacks \& cash bar}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\Large\fontspec{Lato Black} Fri Jan 16 - Workshop Day 2}
+
+\slot{08:30} {\fontspec{Lato Light Italic} Registration Desk Opens}
+
+\slot{09:00-09:30} \talk{Douglas Scott}{CMB, Planck results}
+\slot{09:30-09:40} \talk{Ali Narimani}{MG bounds from Planck}
+\slot{09:40-10:05} \talk{Brian Keating}{Fundamental physics from BICEP1, BICEP2, POLARBEAR}
+\slot{10:05-10:30} \talk{Ue-Li Pen}{Testing quantum gravity with pulsar-black hole binaries}
+\coffee
+\slot{11:00-11:25} \talk{Tobias Jenke}{Slow neutrons and their role to test gravity}
+\slot{11:25-11:50} \talk{David Moore}{Levitated microspheres}
+\slot{12:00-12:25} \talk{Jay Tasson}{Searches for local Lorentz violation}
+\slot{12:25-12:50} \talk{Jiro Murata}{Short distance gravity with nuclear scattering technique}
+
+\lunch{13:00-14:00}
+
+\slot{14:00-14:30} \talk{Manuela Campanelli}{GW source modeling}
+\slot{14:30-14:55} \talk{Ingrid Stairs}{Pulsars}
+\slot{14:55-15:15} \talk{Philippe Brax}{New tests of modified gravity}
+\slot{15:15-15:35} \talk{Ruth Gregory}{Screened scalars and black holes}
+\coffee
+\slot{16:00-16:30} \talk{Avery Broderick}{Near horizon effects}
+\slot{16:30-17:00} \talk{Bill Unruh}{What analogue gravity can say about gravity?}
+\slot{17:00-17:30} \talk{Mark Van Raamsdonk}{String theory, emergent gravity}
+
+\bigskip
+
+\slot{19:00} \talk{Conference Dinner}{Dockside on Granville Island}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{\Large\fontspec{Lato Black} Sat Jan 17 - Workshop Day 3}
+
+\slot{09:00} {\fontspec{Lato Light Italic} Registration Desk Opens}
+
+\slot{09:30-10:00} \talk{Martin White}{Redshift surveys}
+\slot{10:00-10:25} \talk{Ludo Van Waerbeke}{Weak lensing}
+\slot{10:25-10:40} \talk{Mustapha Ishak \& Jason Dossett}{Current constraints on DE and MG}
+\coffee
+\slot{11:10-11:40} \talk{Bhuvnesh Jain}{Astrophysical tests, dwarf galaxies}
+\slot{11:40-12:00} \talk{Gong-Bo Zhao}{N-body simulations in MG}
+\slot{12:10-12:30} \talk{Shinji Tsujikawa}{Disformal invariance of cosmological perturbations in a generalized class of Horndeski theories}
+\slot{12:30-12:50} \talk{Cedric Deffayet}{DOF counting in massive gravity}
+
+\lunch{13:00-14:00}
+
+\slot{14:00-14:20} \talk{Nieayesh Afshordi}{Cosmological (non-) constant problem}
+\slot{14:20-14:40} \talk{Makoto Fujiwara}{ALPHA at CERN, testing gravity of antimatter}
+\slot{14:50-15:30} \talk{Lam Hui}{Symmetries in gravity and large scale structure; workshop summary}
+
+\section*{\Large\fontspec{Lato Black} Workshop Ends}
+
+\end{itemize}
+\end{document}
