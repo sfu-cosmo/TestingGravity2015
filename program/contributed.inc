@@ -15,7 +15,7 @@
 
 \slot{16:45-16:55} \talk{Jim Franson}{Supernova 1987a and the equivalence principle}
 
-\slot{17:00-17:20} \talk{6 short talks}{3 min each}
+\slot{17:00-17:25} \talk{7 short talks}{3 min each}
 
 \begin{itemize}
 \setlength\itemsep{0pt}
@@ -25,6 +25,7 @@
 \item \talk{Alexandra Terrana}{Bigravity theories and gravitational waves}
 \item \talk{Ryotaro Kase}{The effective field theory of modified gravity}
 \item \talk{Orest Hrycyna}{Dynamics and observational constraints on Brans-Dicke cosmological model}
+\item \talk{William Terrano}{Looking for torsion in general relativity, or the role of spin in gravity}
 \end{itemize}
 
 \slot{17:25-17:35} \talk{Manu Paranjape}{How to measure the speed of gravity}
