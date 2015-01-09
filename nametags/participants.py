@@ -14,7 +14,7 @@ replace = {
 
 volunteers = {
     'soc': ['Frolov', 'Fujiwara', 'Picker', 'Pogosian', 'Pospelov', 'Psaltis', 'Scott'],
-    'volunteer': ['Contreras', 'Coutts', 'Hojjati', 'Narimani', 'Pogosian', 'Talbot', 'Troester']
+    'volunteer': ['Aftergood', 'Brush', 'Contreras', 'Coutts', 'Crowter', 'Fonseca', 'Hojjati', 'Galvez Ghersi', 'Grandy', 'Narimani', 'Pogosian', 'Talbot', 'Troester', 'Vdovkina', 'Yin', 'Zucca']
 }
 
 with open('Registration_Jan 07.csv', 'rU') as csvfile:
