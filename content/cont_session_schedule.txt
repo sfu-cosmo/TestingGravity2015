@@ -1,0 +1,32 @@
+4-4:10 Robert Ferdman, ”Using pulsars in a Galactic-scale gravitational-wave detector”
+
+4:15-4:40 7 short talks, 3 min each
+
+1. Jonathan Thornburg. “Gravity waves from extreme mass ratio inspiral systems”
+2. Walter Del Pozzo, “Testing general relativity with gravitational waves observations”
+3. Emmanuel Fonseca, ”A Comprehensive Study of Relativistic Gravity using PSR B1534+12”
+4. Jannis R. Bielefeld “An SU(2) Yang-Mills model of color radiation”
+5. Alexis Helou, “From Black Holes to Cosmology, and back”
+6. Shinsuke Asaba, “Effect of supersonic relative motion on spherical collapse”
+7. Matt Beach, “Self-force on a charge outside a five-dimensional black hole”
+
+4:45-4:55 Jim Franson, “Supernova 1987a and the Equivalence Principle”
+
+5:00-5:20 6 short talks, 3 min each
+
+1. Chryssomalis Chryssomalakos, “Operational Geometry with Extended Probes”
+2. Jeffrey Hyde, “Gravitational Waves from Preheating of a Higgs-like Scalar”
+3. Kei Yamada, “Relativistic Sagnac effects by Chern-Simons gravity”
+4. Alexandra Terrana, “Bigravity theories and gravitational waves”
+5. Ryotaro Kase, “The effective field theory of modified gravity”
+6. Orest Hrycyna, “Dynamics and observational constraints on Brans-Dicke cosmological model”
+
+5:25-5:35 Manu Paranjape, “How to measure the speed of gravity”
+
+5:40-6:00 6 short talks, 3 min each
+
+1. Amol Upadhye, “Large-scale structure as a test of dark energy and modified gravity”
+2. Alejo Stark, “A novel test of gravity in galaxy cluster scales” 
+3. Jacob Moldenhauer, “Interactive Testing of Cosmological Models Using the Latest Data Sets in the CosmoEJS Package”
+4. Saga, Shohei (Nagoya U.), “More accurate analysis of secondary gravitational waves in $¥Lambda$CDM cosmology”5. Isoyama Soichiro, “Effective Hamilton Dynamics of  the Self-Forced Motion in Kerr Spacetime”
+6. David W. Tian, “Thermodynamics-gravity correspondence of the Universe in general relativity and modified gravity”

@@ -1,0 +1,130 @@
+1) Orest Hrycyna (NCNR, Poland)
+
+“Dynamics and observational constraints on Brans-Dicke cosmological model”
+
+Abstract: The dynamics of the Brans-Dicke theory with a scalar field potential function is investigated. We show that the system with a barotropic matter content can be reduced to an autonomous three-dimensional dynamical system. For an arbitrary potential function, we found the values of the Brans-Dicke parameter for which a global attractor in the phase space representing the de Sitter state exists. Qualitative theory of dynamical systems enables us to obtain three different types of behavior in vicinity of this state. Using observational data coming form distant supernovae type Ia, the Hubble function H(z)measurements, information coming from Alcock-Paczynski test and baryon acoustic oscillations (BAO) we find constraints on the model parameters.
+
+2) Emmanuel Fonseca (UBC)
+
+"A Comprehensive Study of Relativistic Gravity using PSR B1534+12"
+
+Abstract: Radio pulsars in relativistic binary systems have provided the most rigorous tests of gravitational theory in strong fields to date. In this talk, we will present results on recent timing/profile analyses of PSR B1534+12, a 37.9-ms radio pulsar in a 10-hour orbit with another neutron star. The timing analysis of our 26+ year data set yields improved measurements of five "post-Keplerian" (PK) parameters that represent relativistic corrections to a standard Keplerian orbit. Using this system and its PK timing parameters, we find that general relativity is confirmed to within 0.17% of its predictions and compare this test with other recent studies of double-neutron-star binary systems. As a secondary study, we present analyses of evolution in pulse structure due to geodetic precession of the pulsar's spin axis. By combining total-intensity and polarization measurements, we measure a significant precession rate that is consistent with expectations and represents an additional test of relativistic gravity. 
+
+3) Jacob Moldenhauer (U. Dallas)
+
+“Interactive Testing of Cosmological Models Using the Latest Data Sets in the CosmoEJS Package”Abstract: Several cosmological observations suggest the universe’s expansion is accelerating. Some possible explanations include a cosmological constant, or other form of repulsive dark energy, i.e. negative pressure and negative equation of state, a modification to general relativity at cosmological scales of distances, or an apparent effect of inhomogeneities in the universe.  CosmoEJS is an interactive simulation package that allows educators and researchers to investigate cosmological models by simultaneously fitting several observations numerically.  At present, this package uses expansion history data sets, like supernovae, gamma ray bursts, baryon acoustic oscillations, the Hubble parameter, and the cosmic microwave background radiation, as well as, data sets which measure the growth of galaxy structure formation, or clustering, such as the growth index parameter.  When combined with expansion history observations, these constraints from the growth of structure can drastically reduce the number of competitive cosmological models.  CosmoEJS is available from Compadre Open Source Physics website, i.e. http://www.compadre.org/osp/items/detail.cfm?ID=12406.
+
+4) Jonathan Thornburg (Indiana U.)
+
+“Highly precise tests of strong-field GR”
+
+Abstract: An extreme mass ratio inspiral (EMRI) system is a binary black hole system where the black holes have highly disparate masses ($M_1/M_2 \sim 1000:1$ to $10^6:1$).  Gravitational-wave observations of such a system can be used for highly precise tests of strong-field general relativity.  In this talk and the accompanying poster, I'll briefly introduce EMRI phenomenology, and outline some of the methods used to theoretically model EMRI orbital dynamics and the resulting gravitational waves.
+
+5) Isoyama Soichiro (U. Guelph)
+
+”Effective Hamilton Dynamics of  the Self-Forced Motion in Kerr Spacetime”
+
+Abstract: Observation of gravitational waves from compact objects inspiralling into more massive black holes is a promising target to test GR in strong field regime. When the mass ratio is small, the problem admits a perturbative description, where the corrections to the geodesic motion of the smaller object as finite mass (size) object are best described by the notion of a “gravitational self-force". Focusing on a self-forced motion in an astrophysically interesting Kerr spacetime, I will explain its effective Hamilton formulation that is one of the best formulation to actual computations, and discuss its current status and implication. To demonstrate the power of our formulation, I will also show a frequency shift of inner most stable circular orbit that is the first result of a gauge-invariant post-geodesic effects in Kerr spacetime (other than flux due to gravitational wave emission), and highlights its fruitful contact with other approximation method in two-body problems such as post-Newtonian theory.
+ 
+6) Helou, Alexis (APC, Paris)
+
+”From Black Holes to Cosmology, and back”
+
+Abstract: The usual depiction of black hole physics is based on the static Schwarzschild metric and teleological event horizon. There is an analogy with cosmological models, i.e the static de Sitter metric and its event horizon. However, since our real Universe is highly dynamical, the analogy remains veiled when one works with the static black hole. Using a dynamical description of black hole horizon, we find a striking parallel with our cosmological horizon. Such a dynamical formalism has been proposed by Hayward for black holes: it singles out the trapping horizon, or apparent horizon, as the relevant object to work with. We will first explain the difference between apparent and event horizons, and then go through Hayward’s formalism for black holes. The context being set, we will apply this machinery to our dynamical Universe, and therefore take the apparent horizon as our preferred boundary. We will be able to recover the Friedmann Equations from thermodynamics, and explain what we have in common with Jacobson’s work on thermodynamical Gravity. Finally, we will derive a Hawking temperature for the apparent horizon, carefully starting from the well-defined surface gravity. We will give possible interpretations in terms of cosmology, and the role of the apparent horizon as the relevant notion for the evolution of our Universe. This work should in turn help us to understand the behavior of other trapped horizons, such as that of black holes, white holes, or contracting cosmologies, and we should be able to conclude whether or not these apparent/trapping horizons radiate.
+
+7) Saga, Shohei (Nagoya U.)
+
+“More accurate analysis of secondary gravitational waves in $¥Lambda$CDM cosmology”
+
+Abstract: Gravitational waves (GWs) are inevitably induced at second-order in cosmological perturbations through non-linear couplings with first order scalar perturbations, whose existence is well established by recent cosmological observations. So far, the evolution and the spectrum of the secondary induced GWs have been derived by taking into account the sources of GWs only from the product of first order scalar perturbations. Here we newly investigate the effects of purely second-order anisotropic stress of photons and neutrinos on the evolution of GWs, which have been omitted in the literature. We present a full treatment of the Einstein-Boltzmann system to calculate the spectrum of GWs with anisotropic stress based on the formalism of the cosmological perturbation theory.
+
+8) Stark, Alejo (U. Michigan)
+
+“A novel test of gravity in galaxy cluster scales”
+
+Abstract: We present a novel test of gravity in galaxy cluster scales (0.5-1.5 Mpc h^-1) that exploits the ways in which the Chameleon mechanism modifies the gravitational potential of clusters of different masses. More specifically, modified theories of gravity deepen the potential in the outskirts of low mass galaxy clusters with respect to what is expected from General Relativity (GR)--but leave the potential of high mass clusters  relatively unaffected.  As such, by taking the averaged ratio between the gravitational potential of high mass galaxy clusters, and low mass galaxy clusters, we can unambiguously discern between modified gravity and GR. We probe our test with N-body simulations of the FR5 and FR6 parameterizations of Chameleon Hu-Sawicky f(R) gravity and conclude that it can set competitive constraints of modified theories of gravity at galaxy cluster scales.
+
+9) Terrana, Alexandra (York U. & Perimeter)
+
+“Tensor Modes in Bigravity, Primordial to Present”
+
+Abstract: Singly coupled theories of bigravity mix gravitational waves
+that couple to matter with ``dark" gravitational waves that do not. We
+analyze the evolution of a mixture of the two types of
+gravitational waves for a number of theoretically viable expansion
+histories, finding important observable differences from results
+obtained in pure general relativity. We highlight how bigravity can be
+tested by comparing measurements of the CMB to constraints on
+stochastic gravitational wave backgrounds imposed by big bang
+nucleosynthesis and near-term gravitational wave experiments.
+
+10) Kase, Ryotaro (Tokyo U.)
+
+“The effective field theory of modified gravity”
+
+Abstract: We review the effective field theory of modified gravity in which the Lagrangian involves three dimensional geometric quantities appearing in the 3+1 decomposition of space-time. On the flat isotropic cosmological background we expand a general action up to second order in the perturbations of geometric scalars, by taking into account spatial derivatives higher than two. Our analysis covers a wide range of gravitational theories-- including Horndeski theory/its recent generalizations and the projectable/non-projectable versions of Horava-Lifshitz gravity. We derive the equations of motion for linear cosmological 
+perturbations and apply them to the calculations of inflationary power spectra as well as the dark energy dynamics in Galileon theories. We also show that our general results conveniently 
+recover stability conditions of Horava-Lifshitz gravity already derived in the literature.
+
+11) Yamada, Kei (Hirosaki U.)
+
+“Relativistic Sagnac effects by Chern-Simons gravity”
+
+Abstract: Toward a test of parity violation in a gravity theory, possible effects of Chern-Simons (CS) gravity on an interferometer have been recently discussed [1,2]. In this poster, we study possible altitudinal, latitudinal, and directional dependence of relativistic Sagnac effect in CS modified gravity [3]. We also compare the CS effects with the general relativistic Lense-Thirring effects. Our numerical calculations show that the eastbound Sagnac interferometer might be preferred for testing CS separately.
+
+12) Asaba, Shinsuke (Nagoya U.)
+
+“Effect of supersonic relative motion on spherical collapse”
+
+Abstract: One of the aims of future large-scale radio interferometer arrays (e.g. SKA) is to survey high redshift HI distribution with redshifted 21cm lines. Such observations enable us not only to obtain the information about first stars or the epoch of reionization but also to discuss the dark energy or modified gravity from growth of density fluctuation. Recently, it has been found supersonic relative velocities between dark matter and baryons caused by the tight coupling between photons and baryons before recombination affect significantly cosmological structure formation at such high redshift. In this talk, we investigate the effect of supersonic relative motions on spherical collapse model by using cosmological N-body simulations and report the quantitative changes of the collapse time and the mass function of dark matter halos.
+
+13) Helena Schmidt (PTB, Braunschweig)
+
+“Testing Newton's Law of Gravity with parallel plates at $\mu$m distances”
+
+We propose an experiment to test Newton's Law of Gravity at micro- and submicrometre scale using two parallel plates as probe masses. A gold membrane ($h \approx 200\,$nm) between the two plates will be used to reduce parasitic electrostatic and Casimir forces. The membrane is designed as a grid to avoid deflection and it will be attached to one of the probe masses. That complete plate is called Yukawa attractor. FEM simulations and first experiments of these structure will be presented. The second plate is connected to a force sensor and is called detector plate. As far as the type of deviation from Newtons Law of Gravity is unknown, we parameterize this deviation through an additional Yukawa-type potential term:  $V(r) = -G\frac{m_1m_2}{r}\cdot\left[1+\alpha\cdot e^{-r/\lambda}\right]$, $\alpha$ and $\lambda$ are the parameters of the Yukawa-potential. The main idea is to measure the force variation between two parallel plates with periodically varying distances. The force variation due to Newton's Law of Gravity is neglictible for the geometry of this experiment, any measured force variation is related to the yukawa-part of the potential. With the nanonewton force facility at the PTB (Physikalisch Technische Bundesanstalt, Germanys Metrology Institute) we are able to provide a force sensor which enables us to measure up to a resolution of $10^{-14}$\,N at a measurement duration time of $2\cdot 10^5$\,s. That resolution ables us to measure differences from Newton's Law of gravity $10$ to $100$ times better than current experiments.
+
+14) Javier Fernando Chagoya (U. Guanajuato)
+
+“Galileons in Strong Gravity”
+
+Abstract: In the context of a cubic Galileon model, we study low-density stars with slow rotation and static relativistic stars. Using a realistic equation of state, we show that deviations from GR are more suppressed for higher density objects. However, we found that the scalar field solution ceases to exist above a critical density, which roughly corresponds to the maximum mass of a neutron star. This indicates that, for a compact object described by a polytropic equation of state, the configuration that would collapse into a black hole cannot support a non-trivial scalar field.
+
+15) Kyunghoon Han (U. Waterloo)
+
+“On a stochastic construction of the kinematics in discrete spacetime”
+
+Abstract: It has long been speculated that spacetime could, in nature, be discrete. In this paper, the author discusses how stochastic tools can be used to describe kinematics in discrete spacetime. This description of kinematics considers the time evolution as a random walk that allows time to flow both forwards and backwards--but with bias preferring the forward flow. With this framework, the author gives a solution to the galaxy rotation problem without introducing dark matter. Also, he introduces a Dirac equation suiting this framework which allows one to introduce the gravitational influence--via the time-bias term--to a quantum system.
+
+16) IGUCHI, Hideo (CST, Nihon U.)
+
+“Black hole thermodynamics based on non-extensive thermodynamic functions”
+
+Abstract: It is believed that the black hole thermodynamics will play an important role to test the quantum gravity theory.  The entropy of a black hole is proportional to its area. It means that the entropy is nonextensive. The nonextensive thermodynamics is criticized because of the incompatibility between the zeroth law and nonaditive composition rules. Recently, the answer for this problem was proposed by Bir\'{o} and V\'{a}n. Following this approach we investigated the thermodynamics of Schwarzschild black hole in a finite reservoir. We calculated the thermodynamic variables of this system and studied the thermodynamic stability of it.
+
+17) Suzuki, Fumika (UBC)
+
+“Environmental gravitational decoherence in the weak coupling regime”
+
+Abstract: We study the time-dependent behaviour of gravitational 
+decoherence using path integral formalism in the weak coupling regime. 
+Gravitational decoherence can be formulated by considering the open 
+system which interacts with the graviton bath or gravitational waves 
+from the environment outside. Furthermore, it is also possible to study 
+decoherence via emission of gravitational waves by the system itself. 
+This is unavoidable decoherence if the system has its energy-momentum 
+tensor, generates gravitational waves by obeying linearized Einstein's 
+field equation and interacts with space-time which plays the role of 
+the environment here.
+
+18) Carlson, Michael
+
+“The Mechanics of Aether”
+
+19) William Terrano (University of Washington) 
+
+Looking for Torsion in General Relativity, or the role of Spin in Gravity
+
+abstract:  A complete description of a curved space-time requires both curvature and torsion. A number of theoretical arguments suggest that general relativity should contain a torsion term.  As it stands, GR is neither Poincare invariant nor can it conserve total angular momentum -- including torsion fixes both of these issues.  The experimental signature of torsion is a new dipole force that couples to intrinsic particle spin.  We have performed a new style of experiment probing for such a force with much greater sensitivity than previous experiments.
+
+
